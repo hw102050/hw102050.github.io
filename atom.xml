@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hw102050.github.io/"/>
-  <updated>2018-04-14T11:39:37.000Z</updated>
+  <updated>2018-04-14T12:00:17.779Z</updated>
   <id>https://hw102050.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>how-to-use-gazebo-with-ros-00</title>
+    <title>如何用ROS把玩Gazebo_簡介</title>
     <link href="https://hw102050.github.io/2018/04/14/how-to-use-gazebo-with-ros-00/"/>
     <id>https://hw102050.github.io/2018/04/14/how-to-use-gazebo-with-ros-00/</id>
-    <published>2018-04-14T10:52:17.000Z</published>
-    <updated>2018-04-14T11:39:37.000Z</updated>
+    <published>2018-04-14T10:18:18.000Z</published>
+    <updated>2018-04-14T12:00:17.779Z</updated>
     
     <content type="html"><![CDATA[<hr><table><thead><tr><th style="text-align:center"></th><th>Sys Info.</th></tr></thead><tbody><tr><td style="text-align:center"><strong>OS</strong></td><td>Linux Mint 17.3</td></tr><tr><td style="text-align:center"><strong>CPU</strong></td><td>intel Core i5-2520M</td></tr><tr><td style="text-align:center"><strong>RAM</strong></td><td>DDR3 1333MHz 8G</td></tr><tr><td style="text-align:center"><strong>PC</strong></td><td>ThinkPad T420S</td></tr><tr><td style="text-align:center"><strong>ROS</strong></td><td>Indigo</td></tr></tbody></table><hr>]]></content>
     
